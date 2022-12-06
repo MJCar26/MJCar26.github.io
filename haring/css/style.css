@@ -1,0 +1,20 @@
+.splash {
+background-image: url("../img/TitleSplash.jpeg");
+background-size:contain;
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.splashhead{
+    color: black;
+    
+}
+
+.squareone{
+    background-color: floralwhite;
+}
+
+.h2{
+    color: black;
+    
+}
